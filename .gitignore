@@ -3,6 +3,7 @@ keys.yaml
 .vscode/**
 cov.xml
 trajectories/**
+!trajectories/README.md
 !trajectories/demonstrations/**
 data/**
 *.env

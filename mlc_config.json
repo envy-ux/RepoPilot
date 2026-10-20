@@ -32,8 +32,10 @@
     },
     {
       "pattern": "^(?!https).*(?<!\\.md)$"
+    },
+    {
+      "pattern": "https://swe-bench\\.slack\\.com.*"
     }
-
   ],
   "replacements": [
     {
