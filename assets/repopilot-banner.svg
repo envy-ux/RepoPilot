@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="160" viewBox="0 0 760 160" role="img" aria-labelledby="title desc">
+  <title id="title">RepoPilot</title>
+  <desc id="desc">RepoPilot repository intelligence agent</desc>
+  <rect x="4" y="4" width="152" height="152" rx="32" fill="#12243A"/>
+  <path d="M42 54h80M42 80h57M42 106h70" fill="none" stroke="#8FD3FF" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="117" cy="80" r="17" fill="#12243A" stroke="#F6B94B" stroke-width="7"/>
+  <path d="M117 69v22M106 80h22" stroke="#F6B94B" stroke-width="4" stroke-linecap="round"/>
+  <text x="190" y="83" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="60" font-weight="750" fill="#12243A">RepoPilot</text>
+  <text x="194" y="125" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500" letter-spacing="1.8" fill="#496174">REPOSITORY INTELLIGENCE AGENT</text>
+</svg>
