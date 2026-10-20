@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'docs/**'
+      - 'trajectories/demonstrations/**'
       - 'mkdocs.yml'
       - 'pyproject.toml'
       - '.github/workflows/build-docs.yaml'
